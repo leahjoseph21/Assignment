@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Ball
+comment1.params=f\ m\ x\ y\ dx\ dy\ xSize\ ySize\ filename
+comment1.target=Ball(javax.swing.JFrame,\ Man,\ int,\ int,\ int,\ int,\ int,\ int,\ java.lang.String)
+comment2.params=
+comment2.target=void\ setPosition()
+comment3.params=
+comment3.target=boolean\ manHitsBall()
+comment4.params=
+comment4.target=boolean\ isOffScreen()
+comment5.params=
+comment5.target=void\ update()
+comment6.params=
+comment6.target=void\ loadClips()
+comment7.params=index
+comment7.target=void\ playClip(int)
+numComments=8
